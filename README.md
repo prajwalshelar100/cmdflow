@@ -16,7 +16,9 @@ whether this is a real pain point for others, not just for me.
 If this problem resonates with you, starring the repo or opening an issue
 to describe your workflow would be genuinely helpful.
 
+
 ---
+This is an open-source project proposal intended for community discussion and validation.
 
 ## The Problem
 
