@@ -147,7 +147,6 @@ If enough people find this useful, it can be built properly.
 ## Author
 
 Prajwal Shelar  
-Learning in public, building intentionally.
 
 Website: https://www.prajwalshelar.online  
 GitHub: https://github.com/prajwalshelar100  
