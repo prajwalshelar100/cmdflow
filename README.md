@@ -18,8 +18,8 @@ to describe your workflow would be genuinely helpful.
 
 
 ---
-This is an open-source project proposal intended for community discussion and validation.
-
+_This is an open-source project proposal intended for community discussion and validation._
+---
 ## The Problem
 
 When reading documentation or blog posts, I often need to:
